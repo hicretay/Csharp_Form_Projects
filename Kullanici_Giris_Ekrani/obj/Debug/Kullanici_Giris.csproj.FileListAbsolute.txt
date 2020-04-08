@@ -1,0 +1,11 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\bin\Debug\Kullanici_Giris.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\bin\Debug\Kullanici_Giris.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\bin\Debug\Kullanici_Giris.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\obj\Debug\Kullanici_Giris.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\obj\Debug\Kullanici_Giris.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\obj\Debug\Kullanici_Giris.Form2.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\obj\Debug\Kullanici_Giris.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\obj\Debug\Kullanici_Giris.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\obj\Debug\Kullanici_Giris.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\obj\Debug\Kullanici_Giris.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kullanici_Giris\obj\Debug\Kullanici_Giris.pdb

@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\bin\Debug\Saat_Dakika_Mod.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\bin\Debug\Saat_Dakika_Mod.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\bin\Debug\Saat_Dakika_Mod.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\obj\Debug\Saat_Dakika_Mod.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\obj\Debug\Saat_Dakika_Mod.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\obj\Debug\Saat_Dakika_Mod.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\obj\Debug\Saat_Dakika_Mod.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\obj\Debug\Saat_Dakika_Mod.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\obj\Debug\Saat_Dakika_Mod.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Saat_Dakika_Mod\obj\Debug\Saat_Dakika_Mod.pdb

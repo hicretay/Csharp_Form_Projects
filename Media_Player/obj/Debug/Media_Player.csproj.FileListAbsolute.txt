@@ -1,0 +1,15 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\bin\Debug\Media_Player.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\bin\Debug\Media_Player.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\bin\Debug\Media_Player.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\Media_Player.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\Media_Player.csproj.ResolveComReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\Media_Player.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\Media_Player.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\Media_Player.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\Media_Player.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\Media_Player.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Media_Player\obj\Debug\Media_Player.pdb

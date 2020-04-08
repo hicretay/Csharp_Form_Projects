@@ -1,0 +1,11 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\bin\Debug\Otobüs_Otomasyonu.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\bin\Debug\Otobüs_Otomasyonu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\bin\Debug\Otobüs_Otomasyonu.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\obj\Debug\Otobüs_Otomasyonu.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\obj\Debug\Otobüs_Otomasyonu.Form2.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\obj\Debug\Otobüs_Otomasyonu.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\obj\Debug\Otobüs_Otomasyonu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Otobüs_Otomasyonu\obj\Debug\Otobüs_Otomasyonu.pdb

@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\bin\Debug\veritabanli_bilgi_yarismasi.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\bin\Debug\veritabanli_bilgi_yarismasi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\bin\Debug\veritabanli_bilgi_yarismasi.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\obj\Debug\Veritabanli_Bilgi_Yarismasi.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\obj\Debug\veritabanli_bilgi_yarismasi.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\obj\Debug\veritabanli_bilgi_yarismasi.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\obj\Debug\Veritabanli_Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\obj\Debug\Veritabanli_Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\obj\Debug\veritabanli_bilgi_yarismasi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\veritabanli_bilgi_yarismasi\obj\Debug\veritabanli_bilgi_yarismasi.pdb

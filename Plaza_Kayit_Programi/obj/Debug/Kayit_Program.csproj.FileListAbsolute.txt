@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\obj\Debug\Kayit_Program.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\obj\Debug\Kayit_Program.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\obj\Debug\Kayit_Program.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\obj\Debug\Kayit_Program.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\obj\Debug\Kayit_Program.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\bin\Debug\Kayit_Program.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\bin\Debug\Kayit_Program.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\bin\Debug\Kayit_Program.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\obj\Debug\Kayit_Program.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Program\obj\Debug\Kayit_Program.pdb

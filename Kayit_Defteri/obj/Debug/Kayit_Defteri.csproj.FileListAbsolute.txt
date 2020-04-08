@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\bin\Debug\Kayit_Defteri.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\bin\Debug\Kayit_Defteri.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\bin\Debug\Kayit_Defteri.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\obj\Debug\Kayit_Defteri.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\obj\Debug\Kayit_Defteri.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\obj\Debug\Kayit_Defteri.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\obj\Debug\Kayit_Defteri.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\obj\Debug\Kayit_Defteri.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\obj\Debug\Kayit_Defteri.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Kayit_Defteri\obj\Debug\Kayit_Defteri.pdb

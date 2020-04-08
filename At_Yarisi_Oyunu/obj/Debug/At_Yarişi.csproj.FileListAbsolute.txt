@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\bin\Debug\At_Yarişi.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\bin\Debug\At_Yarişi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\bin\Debug\At_Yarişi.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\obj\Debug\At_Yarişi.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\obj\Debug\At_Yarişi.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\obj\Debug\At_Yarişi.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\obj\Debug\At_Yarişi.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\obj\Debug\At_Yarişi.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\obj\Debug\At_Yarişi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\At_Yarişi\obj\Debug\At_Yarişi.pdb

@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\bin\Debug\Double_Hesap_Makinesi.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\bin\Debug\Double_Hesap_Makinesi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\bin\Debug\Double_Hesap_Makinesi.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\obj\Debug\Double_Hesap_Makinesi.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\obj\Debug\Double_Hesap_Makinesi.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\obj\Debug\Double_Hesap_Makinesi.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\obj\Debug\Double_Hesap_Makinesi.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\obj\Debug\Double_Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\obj\Debug\Double_Hesap_Makinesi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Double_Hesap_Makinesi\obj\Debug\Double_Hesap_Makinesi.pdb

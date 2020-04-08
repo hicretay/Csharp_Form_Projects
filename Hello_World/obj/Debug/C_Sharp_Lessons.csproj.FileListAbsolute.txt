@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\C_Sharp_Lessons.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\C_Sharp_Lessons.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\C_Sharp_Lessons.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\C_Sharp_Lessons.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\C_Sharp_Lessons.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\C_Sharp_Lessons.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\C_Sharp_Lessons.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\C_Sharp_Lessons.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\C_Sharp_Lessons.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\C_Sharp_Lessons.pdb

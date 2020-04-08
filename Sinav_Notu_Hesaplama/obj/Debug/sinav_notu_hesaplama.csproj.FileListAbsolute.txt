@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\bin\Debug\sinav_notu_hesaplama.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\bin\Debug\sinav_notu_hesaplama.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\bin\Debug\sinav_notu_hesaplama.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\obj\Debug\sinav_notu_hesaplama.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\obj\Debug\sinav_notu_hesaplama.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\obj\Debug\sinav_notu_hesaplama.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\obj\Debug\sinav_notu_hesaplama.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\obj\Debug\sinav_notu_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\obj\Debug\sinav_notu_hesaplama.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\sinav_notu_hesaplama\obj\Debug\sinav_notu_hesaplama.pdb

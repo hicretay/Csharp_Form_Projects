@@ -1,0 +1,15 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\bin\Debug\alarm.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\bin\Debug\alarm.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\bin\Debug\alarm.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\alarm.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\alarm.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\alarm.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\alarm.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\alarm.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\alarm.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\alarm.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\bin\Debug\Interop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\Interop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\alarm\obj\Debug\alarm.csproj.ResolveComReference.cache

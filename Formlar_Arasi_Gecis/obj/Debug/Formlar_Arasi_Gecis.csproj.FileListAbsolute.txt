@@ -1,0 +1,11 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\bin\Debug\Formlar_Arasi_Gecis.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\bin\Debug\Formlar_Arasi_Gecis.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\bin\Debug\Formlar_Arasi_Gecis.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.Form2.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.pdb

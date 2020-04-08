@@ -1,0 +1,11 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\bin\Debug\Apartman_Otomasyonu.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\bin\Debug\Apartman_Otomasyonu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\bin\Debug\Apartman_Otomasyonu.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\obj\Debug\Apartman_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\obj\Debug\Apartman_Otomasyonu.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\obj\Debug\Apartman_Otomasyonu.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\obj\Debug\Apartman_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\obj\Debug\Apartman_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\obj\Debug\Apartman_Otomasyonu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\obj\Debug\Apartman_Otomasyonu.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Apartman_Otomasyonu\obj\Debug\Apartman_Otomasyonu.Form2.resources

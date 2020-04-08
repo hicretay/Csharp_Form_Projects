@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\bin\Debug\Veritabani_Örnek.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\bin\Debug\Veritabani_Örnek.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\bin\Debug\Veritabani_Örnek.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\obj\Debug\Veritabani_Örnek.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\obj\Debug\Veritabani_Örnek.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\obj\Debug\Veritabani_Örnek.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\obj\Debug\Veritabani_Örnek.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\obj\Debug\Veritabani_Örnek.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\obj\Debug\Veritabani_Örnek.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Veritabani_Örnek\obj\Debug\Veritabani_Örnek.pdb

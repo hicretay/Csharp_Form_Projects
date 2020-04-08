@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\bin\Debug\Zar_Oyunu.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\bin\Debug\Zar_Oyunu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\bin\Debug\Zar_Oyunu.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\obj\Debug\Zar_Oyunu.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\obj\Debug\Zar_Oyunu.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\obj\Debug\Zar_Oyunu.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\obj\Debug\Zar_Oyunu.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\obj\Debug\Zar_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\obj\Debug\Zar_Oyunu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Zar_Oyunu\obj\Debug\Zar_Oyunu.pdb

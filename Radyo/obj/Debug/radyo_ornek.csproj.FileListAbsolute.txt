@@ -1,0 +1,15 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\bin\Debug\radyo_ornek.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\bin\Debug\radyo_ornek.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\bin\Debug\radyo_ornek.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\bin\Debug\Interop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\radyo_ornek.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\Interop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\radyo_ornek.csproj.ResolveComReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\radyo_ornek.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\radyo_ornek.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\radyo_ornek.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\radyo_ornek.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\radyo_ornek.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\radyo_ornek\obj\Debug\radyo_ornek.pdb

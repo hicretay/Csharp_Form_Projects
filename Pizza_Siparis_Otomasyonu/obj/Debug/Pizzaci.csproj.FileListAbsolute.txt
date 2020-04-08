@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\bin\Debug\Pizzaci.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\bin\Debug\Pizzaci.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\bin\Debug\Pizzaci.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\obj\Debug\Pizzaci.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\obj\Debug\Pizzaci.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\obj\Debug\Pizzaci.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\obj\Debug\Pizzaci.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\obj\Debug\Pizzaci.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\obj\Debug\Pizzaci.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pizzaci\obj\Debug\Pizzaci.pdb
