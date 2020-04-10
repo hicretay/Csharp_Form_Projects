@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\bin\Debug\Random_Number_Generator.exe.config
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\bin\Debug\Random_Number_Generator.exe
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\bin\Debug\Random_Number_Generator.pdb
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\obj\Debug\Random_Number_Generator.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\obj\Debug\Random_Number_Generator.Form1.resources
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\obj\Debug\Random_Number_Generator.Properties.Resources.resources
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\obj\Debug\Random_Number_Generator.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\obj\Debug\Random_Number_Generator.exe
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\obj\Debug\Random_Number_Generator.pdb
+C:\Users\hiicr\source\repos\Random_Number_Generator\Random_Number_Generator\obj\Debug\Random_Number_Generator.csproj.CoreCompileInputs.cache

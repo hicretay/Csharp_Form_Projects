@@ -1,0 +1,14 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\bin\Debug\Algoritmik_Ornekler.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\bin\Debug\Algoritmik_Ornekler.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\bin\Debug\Algoritmik_Ornekler.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.Form2.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.Form3.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.Form4.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Algoritmik_Ornekler\obj\Debug\Algoritmik_Ornekler.Form5.resources

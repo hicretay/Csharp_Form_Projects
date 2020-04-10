@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\bin\Debug\Dizi_İslemleri.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\bin\Debug\Dizi_İslemleri.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\bin\Debug\Dizi_İslemleri.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\obj\Debug\Dizi_İslemleri.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\obj\Debug\Dizi_İslemleri.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\obj\Debug\Dizi_İslemleri.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\obj\Debug\Dizi_İslemleri.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\obj\Debug\Dizi_İslemleri.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\obj\Debug\Dizi_İslemleri.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Dizi_İslemleri\obj\Debug\Dizi_İslemleri.pdb

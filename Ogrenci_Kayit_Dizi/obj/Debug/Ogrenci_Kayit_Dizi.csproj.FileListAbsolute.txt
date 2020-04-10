@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\bin\Debug\Ogrenci_Kayit_Dizi.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\bin\Debug\Ogrenci_Kayit_Dizi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\bin\Debug\Ogrenci_Kayit_Dizi.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\obj\Debug\Ogrenci_Kayit_Dizi.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\obj\Debug\Ogrenci_Kayit_Dizi.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\obj\Debug\Ogrenci_Kayit_Dizi.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\obj\Debug\Ogrenci_Kayit_Dizi.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\obj\Debug\Ogrenci_Kayit_Dizi.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\obj\Debug\Ogrenci_Kayit_Dizi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Ogrenci_Kayit_Dizi\obj\Debug\Ogrenci_Kayit_Dizi.pdb
