@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\bin\Debug\Yon_Tuslariyla_Klavye_Kontrolu.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\bin\Debug\Yon_Tuslariyla_Klavye_Kontrolu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\bin\Debug\Yon_Tuslariyla_Klavye_Kontrolu.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\obj\Debug\Yon_Tuslariyla_Klavye_Kontrolu.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\obj\Debug\Yon_Tuslariyla_Klavye_Kontrolu.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\obj\Debug\Yon_Tuslariyla_Klavye_Kontrolu.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\obj\Debug\Yon_Tuslariyla_Klavye_Kontrolu.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\obj\Debug\Yon_Tuslariyla_Klavye_Kontrolu.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\obj\Debug\Yon_Tuslariyla_Klavye_Kontrolu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Yon_Tuslariyla_Klavye_Kontrolu\obj\Debug\Yon_Tuslariyla_Klavye_Kontrolu.pdb
