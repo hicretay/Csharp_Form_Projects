@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\bin\Debug\Sinema_Bilet_Otomasyonu.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\bin\Debug\Sinema_Bilet_Otomasyonu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\bin\Debug\Sinema_Bilet_Otomasyonu.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Sinema_Bilet_Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.pdb
