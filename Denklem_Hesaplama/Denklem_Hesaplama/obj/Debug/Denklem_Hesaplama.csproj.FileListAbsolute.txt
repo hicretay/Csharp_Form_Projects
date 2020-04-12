@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\obj\Debug\Denklem_Hesaplama.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\obj\Debug\Denklem_Hesaplama.Form1.resources
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\obj\Debug\Denklem_Hesaplama.Properties.Resources.resources
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\obj\Debug\Denklem_Hesaplama.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\obj\Debug\Denklem_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\bin\Debug\Denklem_Hesaplama.exe.config
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\bin\Debug\Denklem_Hesaplama.exe
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\bin\Debug\Denklem_Hesaplama.pdb
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\obj\Debug\Denklem_Hesaplama.exe
+C:\Users\hiicr\source\repos\Denklem_Hesaplama\Denklem_Hesaplama\obj\Debug\Denklem_Hesaplama.pdb

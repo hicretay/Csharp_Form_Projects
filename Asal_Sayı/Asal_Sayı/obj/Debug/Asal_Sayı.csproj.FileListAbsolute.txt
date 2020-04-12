@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\obj\Debug\Asal_Sayı.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\obj\Debug\Asal_Sayı.Form1.resources
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\obj\Debug\Asal_Sayı.Properties.Resources.resources
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\obj\Debug\Asal_Sayı.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\obj\Debug\Asal_Sayı.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\bin\Debug\Asal_Sayı.exe.config
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\bin\Debug\Asal_Sayı.exe
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\bin\Debug\Asal_Sayı.pdb
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\obj\Debug\Asal_Sayı.exe
+C:\Users\hiicr\source\repos\Asal_Sayı\Asal_Sayı\obj\Debug\Asal_Sayı.pdb
