@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\bin\Debug\Access_Kayit_Ekleme.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\bin\Debug\Access_Kayit_Ekleme.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\bin\Debug\Access_Kayit_Ekleme.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\obj\Debug\Access_Kayit_Ekleme.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\obj\Debug\Access_Kayit_Ekleme.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\obj\Debug\Access_Kayit_Ekleme.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\obj\Debug\Access_Kayit_Ekleme.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\obj\Debug\Access_Kayit_Ekleme.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\obj\Debug\Access_Kayit_Ekleme.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Access_Kayit_Ekleme\obj\Debug\Access_Kayit_Ekleme.pdb
