@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\bin\Debug\Asansor_Uygulamasi.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\bin\Debug\Asansor_Uygulamasi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\bin\Debug\Asansor_Uygulamasi.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\obj\Debug\Asansor_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\obj\Debug\Asansor_Uygulamasi.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\obj\Debug\Asansor_Uygulamasi.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\obj\Debug\Asansor_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\obj\Debug\Asansor_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\obj\Debug\Asansor_Uygulamasi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Asansor_Uygulamasi\obj\Debug\Asansor_Uygulamasi.pdb
