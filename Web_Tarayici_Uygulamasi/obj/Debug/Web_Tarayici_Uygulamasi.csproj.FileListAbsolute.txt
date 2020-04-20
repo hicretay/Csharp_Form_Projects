@@ -1,0 +1,10 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\bin\Debug\Web_Tarayici_Uygulamasi.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\bin\Debug\Web_Tarayici_Uygulamasi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\bin\Debug\Web_Tarayici_Uygulamasi.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\obj\Debug\Web_Tarayici_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\obj\Debug\Web_Tarayici_Uygulamasi.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\obj\Debug\Web_Tarayici_Uygulamasi.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\obj\Debug\Web_Tarayici_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\obj\Debug\Web_Tarayici_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\obj\Debug\Web_Tarayici_Uygulamasi.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Web_Tarayici_Uygulamasi\obj\Debug\Web_Tarayici_Uygulamasi.pdb
