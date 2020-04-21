@@ -1,0 +1,11 @@
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\bin\Debug\Pansiyon_Kayit_Otomasyonu.exe.config
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\bin\Debug\Pansiyon_Kayit_Otomasyonu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\bin\Debug\Pansiyon_Kayit_Otomasyonu.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.Form1.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.Properties.Resources.resources
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.exe
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.pdb
+C:\Users\hiicr\source\repos\C_Sharp_Lessons\Pansiyon_Kayit_Otomasyonu\obj\Debug\Pansiyon_Kayit_Otomasyonu.Form2.resources
