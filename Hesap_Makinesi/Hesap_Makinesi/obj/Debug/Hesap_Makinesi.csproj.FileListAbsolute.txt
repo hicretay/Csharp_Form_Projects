@@ -1,0 +1,20 @@
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\bin\Debug\183311116_Hicret_AY.exe.config
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\bin\Debug\183311116_Hicret_AY.exe
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\bin\Debug\183311116_Hicret_AY.pdb
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\obj\Debug\183311116_Hicret_AY.csprojAssemblyReference.cache
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\obj\Debug\_183311116_Hicret_AY.Form1.resources
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\obj\Debug\_183311116_Hicret_AY.Properties.Resources.resources
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\obj\Debug\183311116_Hicret_AY.csproj.GenerateResource.cache
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\obj\Debug\183311116_Hicret_AY.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\obj\Debug\183311116_Hicret_AY.exe
+C:\Users\hiicr\source\repos\183311116_Hicret_AY\183311116_Hicret_AY\obj\Debug\183311116_Hicret_AY.pdb
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\183311116_Hicret_AY.exe.config
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\183311116_Hicret_AY.exe
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\183311116_Hicret_AY.pdb
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csprojAssemblyReference.cache
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\_183311116_Hicret_AY.Form1.resources
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\_183311116_Hicret_AY.Properties.Resources.resources
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.GenerateResource.cache
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\183311116_Hicret_AY.exe
+C:\Users\hiicr\Documents\2. sınıf BAHAR\C#\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\183311116_Hicret_AY.pdb
